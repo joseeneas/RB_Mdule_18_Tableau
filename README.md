@@ -35,10 +35,16 @@
 - Proposed Visualizations
   - (1) Rides per Star Station, organized by month and week
   - (2) Rides per Member Type, organized by month and week
-  - (3) Rides per hours, during summer
-  - (4) Rides per hours, during winter
-  - (5) Top 10 Start Stations, by ride count
-  - (6) Top 10 End Stations, by ride count
+  - (3) Rides per Membwe Type, Summary
+  - (4) Rides per hours, during summer
+  - (5) Rides per hours, during winter
+  - (6) Top 10 Start Stations, by ride count
+  - (7) Top 10 End Stations, by ride count
+  - (8)
+  - (9)
+  - (10)
+
+
 
 - Unexpected Phenomena
   - Visualization (1) indicates an odd phenomena, where the number of the rides plummets in every weekend. In certain cases the variation may be from tenths of thousands to less than one thousand.
@@ -48,6 +54,7 @@
 - Worflow
   - Combine Files, using Tableau Prep Builder (file name: Tableau-Prep-Flow)
   - Create and analyze the visualizations, starting with the proposed questions, but not limited to those.
+  - Create Dashbords
   - Create a table story based on the findings.
 
 - Questions:
@@ -60,10 +67,11 @@
   - **Today, what are the top 10 stations in the city for starting a journey?** Based on data why do you hypothesize these are the top locations?
   - **Today, what are the top 10 stations in the city for ending a journey? Based on data, why?** It is natural that the user will return to the same place as he/she pickup the bike.
   The top 10 starts and top 10 ends, indicate the validity of that hypothesis.
-  - **How does the average trip duration change by the type of user? (This may be under "User Type" or "member_casual" depending on the period the data is from).** 
+  - **How does the average trip duration change by the type of user? (This may be under "User Type" or "member_casual" depending on the period the data is from).**
   - **What is the average distance in miles for a bike trip?**
 
   The questions below cannot be addressed, as the data source does not contain the individual bike information.
   - **Which bikes (by ID) are most likely due for repair or inspection in the timespan?**
   - **How variable is the utilization by bike ID?**
+
   
