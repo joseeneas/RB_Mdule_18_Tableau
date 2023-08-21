@@ -32,7 +32,7 @@
   - End Longitude
   - Member or casual ride
 
-- Proposed Visualizations
+- Visualizations
   - (1) Rides per Star Station, organized by month and week
   - (2) Rides per Member Type, organized by month and week
   - (3) Rides per Membwe Type, Summary
