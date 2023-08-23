@@ -5,6 +5,7 @@
 <https://citibikenyc.com/system-data>
 
 Project location:<https://us-west-2b.online.tableau.com/#/site/joseeneas/projects/347577?:origin=card_share_link>
+Alternate Path  :<https://us-west-2b.online.tableau.com/#/site/joseeneas/workbooks/729573?:origin=card_share_link>
 
 All the project files can also be found here:
 
