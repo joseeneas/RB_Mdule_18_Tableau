@@ -4,6 +4,15 @@
 
 <https://citibikenyc.com/system-data>
 
+Project location:<https://us-west-2b.online.tableau.com/#/site/joseeneas/projects/347577?:origin=card_share_link>
+
+All the project files can also be found here:
+
+- RB_Module18_Tableau_Challenge (Workbook file)
+- RB_Module18_Tableau_Challenge (PPT fil4 with screenshots)
+- RB_Module18_Tableau_Challenge_PrepFlow
+- RB_Module18_Tableau_Challenge_Package (Package version)
+
 ## Selection Criteria
 
 - Use available months from the year 2023 (limited to 6)
@@ -33,18 +42,18 @@
   - Member or casual ride
 
 - Visualizations
-  - (1) Rides per Star Station, organized by month and week
+  - (1) Rides per Month, organized by month and week
   - (2) Rides per Member Type, organized by month and week
-  - (3) Rides per Membwe Type, Summary
-  - (4) Rides per hours, during summer
-  - (5) Rides per hours, during winter
-  - (6) Top 10 Start Stations, by ride count
-  - (7) Top 10 End Stations, by ride count
-  - (8)
-  - (9)
-  - (10)
-
-
+  - (3) Rides per hours, during summer
+  - (4) Rides per hours, during winter
+  - (5) Top 10 Start Stations
+  - (6) Top 10 End Stations
+  - (7) Average duration and distance
+  - (8) Top 10 Start Stations, by ride count
+  - (9) Top 10 End Stations, by ride count
+  
+- 6 dashboards
+- 1 story
 
 - Unexpected Phenomena
   - Visualization (1) indicates an odd phenomena, where the number of the rides plummets in every weekend. In certain cases the variation may be from tenths of thousands to less than one thousand.
