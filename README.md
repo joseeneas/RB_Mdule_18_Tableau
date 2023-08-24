@@ -88,5 +88,3 @@ All the project files can also be found here:
   The questions below cannot be addressed, as the data source does not contain the individual bike information.
   - **Which bikes (by ID) are most likely due for repair or inspection in the timespan?**
   - **How variable is the utilization by bike ID?**
-
-  
