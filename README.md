@@ -4,10 +4,15 @@
 
 <https://citibikenyc.com/system-data>
 
+<<<<<<< HEAD
 Project location:
 
 <https://us-west-2b.online.tableau.com/#/site/joseeneas/workbooks/729573>
 <https://github.com/joseeneas/RB_Module_16_Project_03_The_Story.git>
+=======
+Project location:<https://us-west-2b.online.tableau.com/#/site/joseeneas/projects/347577?:origin=card_share_link>
+Alternate Path  :<https://us-west-2b.online.tableau.com/#/site/joseeneas/workbooks/729573?:origin=card_share_link>
+>>>>>>> 11983135a26e225e389972baf444fc74c9507d32
 
 All the project files can also be found here:
 
